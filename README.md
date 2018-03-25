@@ -8,8 +8,11 @@ This is a project developed for studying purpose. The main goal is to integrate 
 To run the code you'll need install the following libraries:
 
 pip install google
+
 pip install SpeechRecognition pyaudio
+
 pip install pywin32
+
 pip install pocketsphinx
 
 ## Documentation
