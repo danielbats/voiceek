@@ -16,7 +16,7 @@ pip install pywin32
 pip install pocketsphinx
 
 ## Documentation
-Link here
+Voiceek Wiki comes here (SOON)
 ## References
 * [Py2exe](http://www.py2exe.org/index.cgi/Tutorial)
 * [Speech Recognition](https://pypi.python.org/pypi/SpeechRecognition/)
