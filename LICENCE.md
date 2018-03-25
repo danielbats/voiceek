@@ -1,5 +1,5 @@
 
-  Copyright 2017 Daniel Batista <daniel_sbs12@hotmail.com>
+  Copyright (c) 2017 @danielbats
 
   Versions:
    1.0, em 29/12/2017
