@@ -1,4 +1,4 @@
-# Voiceek
+# Welcome to Voiceek
 A Google's Voice Seeker
 
 ## Project Description
