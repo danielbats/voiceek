@@ -13,7 +13,7 @@ window.iconbitmap(r'C:/MyVoiceek/favicon.ico')
 """set the created window's title"""
 window.title('Voiceek - Google Inc.')                         
 
-"""# define an input and its size"""
+"""define an input and its size"""
 entry_text = Entry(window, width=50)
 """the layout manager"""
 entry_text.pack(pady=40)                                             
