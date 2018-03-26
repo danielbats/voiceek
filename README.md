@@ -6,7 +6,7 @@ This is a project developed for studying purpose. The main goal is to integrate 
 
 ## Installation Requeriments
 To run the code you'll need install the following libraries:
-
+<p><code>
 pip install google
 
 pip install SpeechRecognition pyaudio
@@ -14,7 +14,8 @@ pip install SpeechRecognition pyaudio
 pip install pywin32
 
 pip install pocketsphinx
-
+</code>
+</p>
 ## Documentation
 Voiceek's Wiki [here](https://github.com/danielbats/voiceek.wiki.git)
 ## References
